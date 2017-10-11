@@ -7,7 +7,7 @@ permalink:           pretty
 plugins: [jekyll-paginate]
 # Setup
 title:               Awesome Title Goes Here
-tagline:             'A Jekyll theme'
+tagline:             'Created by Scott'
 description:         'Best website ever! #Whoop'
 url:                 https://ScottRayner.github.io
 baseurl:             ''
